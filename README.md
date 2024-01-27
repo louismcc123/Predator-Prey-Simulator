@@ -1,4 +1,4 @@
-# Ecosystem-Sim
+# Predator-Prey Simulator
 
 ## Introduction
 Watching and interacting with ecosystem models is an accessible and interesting way to demonstrate natural selection and the balance of populations in an ecosystem. Many factors affect this balance and the Lotka-Volterra equations from Alfred J. Lotka (1925) and Vito Volterra (1931) that I studied during my undergraduate degree in mathematics demonstrate how predator-prey relationship is key to this equilibrium. Using this, I wanted to make a model that shows how the variation of an animal’s attributes determine its behaviors and ultimately its survival. 
